@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, useEffect, useContext } from 'react';
 import { useAppContext } from '../context/AppContext.jsx';
 import { FaUser, FaCalendarAlt, FaBook } from 'react-icons/fa';
