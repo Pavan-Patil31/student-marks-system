@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 vite.config.js
 eslint.config.js
+react.svg
+
